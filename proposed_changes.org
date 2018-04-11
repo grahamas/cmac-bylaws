@@ -1,0 +1,33 @@
+* TODO Remove all mention of the Board of Directors and Alumni Board so that "Board" unambiguously refers to "Executive Board"
+** TODO Subaim: Determine correct way to introduce Alumni Board into bylaws
+* TODO 3.4 Remove "Leave of absence." Has two definitions: one CMAC, one University. Neither is necessary here.
+* TODO 3.4-3.5 Remove notion of "Inactive Member," mostly replacing with "Alumnus."
+* TODO 3.4 Determine conditions under which an alumnus (including members previously considered "inactive") may automatically rejoin (i.e. without audition, or without exec vote, or both)
+* TODO 3.5.9 Provide explicit guidelines for dealing with attendance issues: Preserve 1) the musical integrity and 2) the ethical integrity of the group. [Meaning, if someone's absences mean you know they won't be able to perform in the concert, you are obligated to preserve the musical integrity of the concert. However, even if someone is so good that they could miss half the rehearsals and still benefit the concert's music, if they're not acting with integrity and making every attempt to come to practice, then you are obligated to preserve the group's ethical integrity and prevent them from performing in the concert]
+* TODO 3.7 Address removing an officer from membership.
+* TODO 3.7 Rewrite the Emergency Meeting guidelines to prevent their turning into a disaster
+* TODO 5.2 Explicitly specify number and weekends of sectionals, and the method by which their time is determined (4th and 8th week; Poll to be sent no later than Saturday prior)
+* TODO 5.5 Define gig as any performance that is not the quarterly concert.
+* TODO 6.1~~ Explicitly describe exec transition period.
+* TODO 7 Remove entire Board of Directors section.
+* TODO 8.2 Remove "debriefing of activities" from exec responsibilities (maybe?)
+* TODO 8.3 Make dev chair store CDs on grounds of their being "merchandising opportunities." (Cups are only secondarily merch)
+* TODO 8.3.7 Remove Chairman section.
+* TODO 8.5.3 Explicitly state "Discussion of Qualifications" is sealed discussion.
+* TODO 8.5.5 Change order of offices: President, Treasurer, Development Chair, Publicity Chair, Secretary.
+* TODO 8.6 Remove requirement for unanimous vote of remaining exec members to impeach officers.
+* TODO 8.6 Explicitly state that the officer should be removed from the group outright if the officer's faults extend beyond his official capacity; if they do not, then no further penalties shall apply.
+* TODO 9 Remove first two requirements on executive cabinet members.
+* TODO 9 Rethink cabinet members.
+* TODO 9 Add parliamentarian, to review bylaws and be the person who actually knows them.
+* TODO 9 Add social media chair.
+* TODO 9.3.1 Remove special event chair.
+* TODO 9.3 Remove announcement of cabinet members.
+* TODO 10.3 Move certain duties of section leaders to duties of music chair.
+* TODO 11 State explicitly that the conductor shall not be a student.
+* TODO 12 Use Blueprint rather than various accounts.
+* TODO 12 Explicitly state dues?
+* TODO 12.5 Aha, 12.5 is where I get the rationale for giving dev chair the CDs.
+* TODO 12.6 Fundraising needs to be entirely revamped in light of University guidelines.
+* TODO 12.7 Rewrite alumni accounts in light of alumni board and possible pending endowment.
+14 Ratification is in terms of quorum.* TODO
