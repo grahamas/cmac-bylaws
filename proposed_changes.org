@@ -1,9 +1,13 @@
 * TODO Remove all mention of the Board of Directors and Alumni Board so that "Board" unambiguously refers to "Executive Board"
 ** TODO Subaim: Determine correct way to introduce Alumni Board into bylaws
-* TODO 3.4 Remove "Leave of absence." Has two definitions: one CMAC, one University. Neither is necessary here.
-* TODO 3.4-3.5 Remove notion of "Inactive Member," mostly replacing with "Alumnus."
-* TODO 3.4 Determine conditions under which an alumnus (including members previously considered "inactive") may automatically rejoin (i.e. without audition, or without exec vote, or both)
-* TODO 3.5.9 Provide explicit guidelines for dealing with attendance issues: Preserve 1) the musical integrity and 2) the ethical integrity of the group. [Meaning, if someone's absences mean you know they won't be able to perform in the concert, you are obligated to preserve the musical integrity of the concert. However, even if someone is so good that they could miss half the rehearsals and still benefit the concert's music, if they're not acting with integrity and making every attempt to come to practice, then you are obligated to preserve the group's ethical integrity and prevent them from performing in the concert]
+* DONE 3.4 Remove "Leave of absence." Has two definitions: one CMAC, one University. Neither is necessary here.
+  CLOSED: [2018-04-11 Wed 12:42]
+* DONE 3.4-3.5 Remove notion of "Inactive Member," mostly replacing with "Alumnus."
+  CLOSED: [2018-04-11 Wed 12:42]
+* DONE 3.4 Determine conditions under which an alumnus (including members previously considered "inactive") may automatically rejoin (i.e. without audition, or without exec vote, or both)
+  CLOSED: [2018-04-11 Wed 12:42]
+* DONE 3.5.9 Provide explicit guidelines for dealing with attendance issues: Preserve 1) the musical integrity and 2) the ethical integrity of the group. [Meaning, if someone's absences mean you know they won't be able to perform in the concert, you are obligated to preserve the musical integrity of the concert. However, even if someone is so good that they could miss half the rehearsals and still benefit the concert's music, if they're not acting with integrity and making every attempt to come to practice, then you are obligated to preserve the group's ethical integrity and prevent them from performing in the concert]
+  CLOSED: [2018-04-11 Wed 12:50]
 * TODO 3.7 Address removing an officer from membership.
 * TODO 3.7 Rewrite the Emergency Meeting guidelines to prevent their turning into a disaster
 * TODO 5.2 Explicitly specify number and weekends of sectionals, and the method by which their time is determined (4th and 8th week; Poll to be sent no later than Saturday prior)
