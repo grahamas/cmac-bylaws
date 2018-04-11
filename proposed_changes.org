@@ -16,7 +16,8 @@
 * DONE 5.5 Define gig as any performance that is not the quarterly concert.
   CLOSED: [2018-04-11 Wed 13:02]
 * TODO 6.1~~ Explicitly describe exec transition period.
-* TODO 7 Remove entire Board of Directors section.
+* DONE 7 Remove entire Board of Directors section.
+  CLOSED: [2018-04-11 Wed 13:17]
 * TODO 8.2 Remove "debriefing of activities" from exec responsibilities (maybe?)
 * TODO 8.3 Make dev chair store CDs on grounds of their being "merchandising opportunities." (Cups are only secondarily merch)
 * TODO 8.3.7 Remove Chairman section.
