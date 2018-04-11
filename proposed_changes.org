@@ -34,16 +34,28 @@
   CLOSED: [2018-04-11 Wed 13:45]
 * DONE 9 Remove first two requirements on executive cabinet members.
   CLOSED: [2018-04-11 Wed 13:46]
-* TODO 9 Rethink cabinet members.
-* TODO 9 Add parliamentarian, to review bylaws and be the person who actually knows them.
-* TODO 9 Add social media chair.
-* TODO 9.3.1 Remove special event chair.
-* TODO 9.3 Remove announcement of cabinet members.
-* TODO 10.3 Move certain duties of section leaders to duties of music chair.
-* TODO 11 State explicitly that the conductor shall not be a student.
-* TODO 12 Use Blueprint rather than various accounts.
-* TODO 12 Explicitly state dues?
-* TODO 12.5 Aha, 12.5 is where I get the rationale for giving dev chair the CDs.
-* TODO 12.6 Fundraising needs to be entirely revamped in light of University guidelines.
-* TODO 12.7 Rewrite alumni accounts in light of alumni board and possible pending endowment.
+* DONE 9 Rethink cabinet members.
+  CLOSED: [2018-04-11 Wed 13:52]
+* DONE 9 Add parliamentarian, to review bylaws and be the person who actually knows them.
+  CLOSED: [2018-04-11 Wed 13:52]
+* DONE 9 Add social media chair.
+  CLOSED: [2018-04-11 Wed 13:52]
+* DONE 9.3.1 Remove special event chair.
+  CLOSED: [2018-04-11 Wed 13:52]
+* DONE 9.3 Remove announcement of cabinet members.
+  CLOSED: [2018-04-11 Wed 13:52]
+* DONE 10.3 Move certain duties of section leaders to duties of music chair.
+  CLOSED: [2018-04-11 Wed 13:56]
+* DONE 11 State explicitly that the conductor shall not be a student.
+  CLOSED: [2018-04-11 Wed 13:56]
+* DONE 12 Use Blueprint rather than various accounts.
+  CLOSED: [2018-04-11 Wed 14:03]
+* DONE 12 Explicitly state dues?
+  CLOSED: [2018-04-11 Wed 14:03]
+* DONE 12.5 Aha, 12.5 is where I get the rationale for giving dev chair the CDs.
+  CLOSED: [2018-04-11 Wed 14:03]
+* DONE 12.6 Fundraising needs to be entirely revamped in light of University guidelines.
+  CLOSED: [2018-04-11 Wed 14:03]
+* DONE 12.7 Rewrite alumni accounts in light of alumni board and possible pending endowment.
+  CLOSED: [2018-04-11 Wed 14:03]
 14 Ratification is in terms of quorum.* TODO
