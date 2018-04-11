@@ -9,8 +9,10 @@
 * DONE 3.5.9 Provide explicit guidelines for dealing with attendance issues: Preserve 1) the musical integrity and 2) the ethical integrity of the group. [Meaning, if someone's absences mean you know they won't be able to perform in the concert, you are obligated to preserve the musical integrity of the concert. However, even if someone is so good that they could miss half the rehearsals and still benefit the concert's music, if they're not acting with integrity and making every attempt to come to practice, then you are obligated to preserve the group's ethical integrity and prevent them from performing in the concert]
   CLOSED: [2018-04-11 Wed 12:50]
 * TODO 3.7 Address removing an officer from membership.
-* TODO 3.7 Rewrite the Emergency Meeting guidelines to prevent their turning into a disaster
-* TODO 5.2 Explicitly specify number and weekends of sectionals, and the method by which their time is determined (4th and 8th week; Poll to be sent no later than Saturday prior)
+* DONE 3.7 Rewrite the Emergency Meeting guidelines to prevent their turning into a disaster
+  CLOSED: [2018-04-11 Wed 13:07]
+* DONE 5.2 Explicitly specify number and weekends of sectionals, and the method by which their time is determined (4th and 8th week; Poll to be sent no later than Saturday prior)
+  CLOSED: [2018-04-11 Wed 13:07]
 * DONE 5.5 Define gig as any performance that is not the quarterly concert.
   CLOSED: [2018-04-11 Wed 13:02]
 * TODO 6.1~~ Explicitly describe exec transition period.
