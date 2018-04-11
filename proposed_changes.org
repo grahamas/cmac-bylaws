@@ -18,13 +18,20 @@
 * TODO 6.1~~ Explicitly describe exec transition period.
 * DONE 7 Remove entire Board of Directors section.
   CLOSED: [2018-04-11 Wed 13:17]
-* TODO 8.2 Remove "debriefing of activities" from exec responsibilities (maybe?)
-* TODO 8.3 Make dev chair store CDs on grounds of their being "merchandising opportunities." (Cups are only secondarily merch)
-* TODO 8.3.7 Remove Chairman section.
-* TODO 8.5.3 Explicitly state "Discussion of Qualifications" is sealed discussion.
-* TODO 8.5.5 Change order of offices: President, Treasurer, Development Chair, Publicity Chair, Secretary.
-* TODO 8.6 Remove requirement for unanimous vote of remaining exec members to impeach officers.
-* TODO 8.6 Explicitly state that the officer should be removed from the group outright if the officer's faults extend beyond his official capacity; if they do not, then no further penalties shall apply.
+* DONE 8.2 Remove "debriefing of activities" from exec responsibilities (maybe?)
+  CLOSED: [2018-04-11 Wed 13:29]
+* DONE 8.3 Make dev chair store CDs on grounds of their being "merchandising opportunities." (Cups are only secondarily merch)
+  CLOSED: [2018-04-11 Wed 13:32]
+* DONE 8.3.7 Remove Chairman section.
+  CLOSED: [2018-04-11 Wed 13:32]
+* DONE 8.5.3 Explicitly state "Discussion of Qualifications" is sealed discussion.
+  CLOSED: [2018-04-11 Wed 13:33]
+* DONE 8.5.5 Change order of offices: President, Treasurer, Development Chair, Publicity Chair, Secretary.
+  CLOSED: [2018-04-11 Wed 13:33]
+* DONE 8.6 Remove requirement for unanimous vote of remaining exec members to impeach officers.
+  CLOSED: [2018-04-11 Wed 13:44]
+* DONE 8.6 Explicitly state that the officer should be removed from the group outright if the officer's faults extend beyond his official capacity; if they do not, then no further penalties shall apply.
+  CLOSED: [2018-04-11 Wed 13:45]
 * TODO 9 Remove first two requirements on executive cabinet members.
 * TODO 9 Rethink cabinet members.
 * TODO 9 Add parliamentarian, to review bylaws and be the person who actually knows them.
